@@ -1,5 +1,5 @@
 <p align="left">
-  <img src= "https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=10&color=239AF7&multiline=true&width=435&lines=Hi+there!+;I'm+Nam+Do.+Let's+connect!" >
+  <img src= "https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3000&pause=5&color=239AF7&multiline=true&width=550&lines=Hi+there!+;I%27m+Nam+Do+-+a+tech+and+soccer+enthusiast!" >
 </p>
 
 <!--
