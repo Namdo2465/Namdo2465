@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="left">
+  <img src= "https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=10&color=239AF7&multiline=true&width=435&lines=Hi+there!+;I'm+Nam+Do.+Let's+connect!" >
+</p>
 
 <!--
 **Namdo2465/Namdo2465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
