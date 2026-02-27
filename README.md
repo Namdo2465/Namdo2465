@@ -1,5 +1,5 @@
 <p align="left">
-  <img src= "https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3000&pause=5&color=1C79F7&multiline=true&repeat=false&width=550&lines=Hi+there!+;I%27m+Nam+Do+-+a+tech+and+soccer+enthusiast!" >
+  <img src= "https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=19&color=2470F7&multiline=true&repeat=false&width=550&lines=Hi+there!+;I%27m+Nam+Do+-+a+tech+and+soccer+enthusiast!" >
 </p>
 
 ## 👨‍💻 About Me
