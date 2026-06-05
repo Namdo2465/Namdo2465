@@ -1,6 +1,14 @@
-<p align="left">
-  <img src= "https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=19&color=2470F7&multiline=true&repeat=false&width=550&lines=Hi+there!+;I%27m+Nam+Do+-+a+tech+and+soccer+enthusiast!" >
-</p>
+<p  align="center">
+<img  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNqNjMyYTcyeHIzYzNmNmg2bnY3eW8xaGZ2ams4MTk0amVlc2UwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"
+width = "900"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&left=true&random=false&width=825&lines=Xin+Chao!+Welcome+to+my+GitHub!+I'm+Nam,+a+tech+and+soccer+enthusiast!" alt="Typing SVG" /></a>
+
+<!-- <p align="left">
+  <img src= "https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=19&color=2470F7&multiline=true&repeat=false&width=550&lines=Hi+there!+;I%27m+Nam+-+a+tech+and+soccer+enthusiast!" >
+</p> -->
+
+<!-- <h1 align="center">Hello There! I'm Nam Do 👋</h1> -->
 
 ## 👨‍💻 About Me
 
